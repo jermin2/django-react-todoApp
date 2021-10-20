@@ -3,7 +3,7 @@
 Followed this:
 https://www.section.io/engineering-education/react-and-django-rest-framework/
 
-For learning how to use react and django together
+This is for my own learning in how to use React and Django together
 
 Some tweaking had to be done (the source uses Bootstrap 4).
 Namely
@@ -13,3 +13,6 @@ Namely
 
 Added functionality
 * Can edit items (previously could just add new items)
+  
+Future
+* Each task item could be its on React component? This seems more in line with React philosophy
